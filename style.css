@@ -1,0 +1,43 @@
+*{
+    background-color: #000;
+    ;
+}
+h1{
+    color: whitesmoke;
+}
+
+h2{
+    color: antiquewhite;
+    font-size: 25px;
+}
+ #red h3 {
+    font-weight: 600;
+   color: red;
+    font-size: 35px;
+    
+}
+#redlok{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+#yellow h3 {
+    font-weight: 600;
+   color: yellow;
+    font-size: 35px; 
+}
+#yelok{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+#green h3 {
+    font-weight: 600;
+   color: green;
+    font-size: 35px; 
+}
+#grelok{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
